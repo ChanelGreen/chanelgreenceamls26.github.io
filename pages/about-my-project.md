@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: CEAMLS Summer AI Research 
-project_title: Predicting Respiratory Health Risks Using Urban Environmental Data: Baltimore as a Case Study		
+project_title: Predicting Respiratory Health Risks Using Urban Environmental Data	
 
 problem: |
   Briefly describe the problem your project tackles. Who is affected? Why does this
