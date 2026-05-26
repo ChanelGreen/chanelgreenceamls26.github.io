@@ -3,8 +3,8 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+subtitle: CEAMLS Summer AI Research 
+project_title: Optimization Driven Machine Learning Framework for Predicting Respiratory Health Risks Using Urban Environmental Data: Baltimore as a Case Study		
 
 problem: |
   Briefly describe the problem your project tackles. Who is affected? Why does this
