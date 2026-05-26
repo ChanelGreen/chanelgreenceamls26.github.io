@@ -28,13 +28,13 @@ outcome: |
   A research poster? A short paper? Describe the artifacts and what you hope
   others will be able to do with them.
 
-final_report_url: https://example.com/your-report.pdf
+final_report_url: 
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Amara Eze
+  linkedin: 
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Olaniyi Iyiola
+  linkedin: 
 ---
