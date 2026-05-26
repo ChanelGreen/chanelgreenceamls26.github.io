@@ -1,26 +1,27 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Chanel Green                # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Make Phenomenal An Understatement"
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "Sophomore, Family & Consumer Science"
+  - Morgan State University 
+  - "Faith, Family, Legacy"
+  - "📍 Baltimore, MD"
+  - "Green Goals Beauty Academy"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/greengoals/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
-  - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
-  - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
-  - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+  - label: I Believe
+    text: "A healthy Individual creates a healthy family and community"
+  - label: I Am
+    text: "Building Wealth with Purpose"
+  - label: I Will
+    text: "Create a healthy world"
 ---
