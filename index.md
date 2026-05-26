@@ -14,7 +14,7 @@ quick_facts:
   - "Green Goals Beauty Academy"
 
 linkedin: https://www.linkedin.com/in/greengoals/
-image: /assets/images/profile.svg
+image: assets/images/IMG_3805.JPG
 
 # A "Currently" block — three short status lines for the home page.
 currently:
