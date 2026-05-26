@@ -10,8 +10,9 @@ quick_facts:
   - "Sophomore, Family & Consumer Science"
   - Morgan State University 
   - "Faith, Family, Legacy"
-  - "📍 Baltimore, MD"
   - "Green Goals Beauty Academy"
+  - "📍 Baltimore, MD"
+  
 
 linkedin: https://www.linkedin.com/in/greengoals/
 image: assets/images/IMG_3805.JPG
@@ -21,7 +22,7 @@ currently:
   - label: I Believe
     text: "A healthy Individual creates a healthy family and community"
   - label: I Am
-    text: "Building Wealth with Purpose"
+    text: "Building wealth with Purpose"
   - label: I Will
     text: "Create a healthy world"
 ---
