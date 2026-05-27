@@ -14,7 +14,7 @@ quick_facts:
   - "📍 Baltimore, MD"
   
 
-linkedin: https://www.linkedin.com/in/greengoals/
+linkedin: https://www.linkedin.com/in/greengoals
 image: assets/images/IMG_3805.JPG
 
 # A "Currently" block — three short status lines for the home page.
