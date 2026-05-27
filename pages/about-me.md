@@ -7,7 +7,7 @@ about:
   name: Chanel Green
   role: Sophomore, Family and Consumer Science
   image: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/greengoals
   bio: |
     
 
