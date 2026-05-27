@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Amara Eze
   title: PhD Candidate, Industrial and Computational Mathematics
-  image: 
+  image: assets/images/1679924292688.jpg
   website: https://www.linkedin.com/in/amara-eze-569b59259
   bio: |
     Amara Eze is a PhD Candidate in Industrial and Computational Mathematics and serves as a mentor over my project alongside Olaniyi Iyiola at Morgan State           University. Her research, supervised by Dr. Iyiola, focuses on developing effective iterative algorithms to solve nonlinear optimization problems,                 particularly in healthcare and image processing applications within machine learning. Amara is passionate about helping students build a strong technical          foundation and will guide us in learning programs and tools such as Python, SPSS, MATLAB, Overleaf, and R. Outside of research, she enjoys listening to music,     braiding hair, singing alto, and going to the gym. Her balance of academic excellence, creativity, and mentorship creates an encouraging learning environment      for students entering the world of computational research.
