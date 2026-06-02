@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Day 4 — Research, Literature Reviews & Python"
+date: 2026-06-02
+permalink: /day6.html
+tags: ["Research, Literature Reviews & Python"]
+
+what_i_learned: |
+    Today, I met with my research team and continued learning about sets and dictionaries in Python. I practiced understanding how sets store unique values and how dictionaries organize data using key-value pairs. These concepts are important for storing, organizing, and retrieving information efficiently, especially when working with larger datasets.
+    We also had the opportunity to meet Anita Pandey and learn about conducting literature reviews. She introduced us to the PEACC framework, a checklist used when reviewing papers and presentations:
+
+    P – Professionalism
+    E – Ethical
+    A – Accuracy
+    C – Clarity
+    C – Completeness
+
+    Later, we participated in Kahoot activities focused on Amazon careers in technology, which provided insight into different career pathways within the tech industry. We ended the day with Python 101, where we continued strengthening our programming foundation and applying the concepts we have learned throughout the week.     the opportunity to explore AI tools such as Suno.ai, ElevenLabs.io, and Character.ai, which demonstrated different applications of generative AI in music          creation, voice generation, and conversational experiences. Together, these activities provided a broader understanding of how AI is being used across             multiple industries and creative spaces.blockers: |
+
+blockers: |  
+    I did not experience any educational blockers today. My only challenge was occasional internet connection issues, which sometimes interrupted my workflow and participation in activities.
+    
+reflection: |
+    Today helped me connect technical skills with professional and research practices. Learning about sets and dictionaries expanded my understanding of how data can be organized and managed in Python, while the PEACC framework provided a useful tool for evaluating research papers and presentations. I also enjoyed learning more about technology careers through the Amazon Kahoot activities. Although I experienced some connection issues, I was still able to stay engaged and complete the day's activities. Overall, I continue to build confidence in both my coding skills and my understanding of the research process.
+    
+    ---
