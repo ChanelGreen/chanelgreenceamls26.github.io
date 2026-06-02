@@ -7,34 +7,21 @@ subtitle: CEAMLS Summer AI Research
 project_title: Predicting Respiratory Health Risks Using Urban Environmental Data	
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
-
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
+    Respiratory diseases continue to affect millions of people worldwide, and environmental factors such as air quality, temperature, humidity, and population         density can contribute to health risks. Traditional methods of identifying respiratory health risks may not always provide timely predictions, making it           important to explore data-driven approaches that can help support early intervention and public health decision-making.
 
 approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
-
-  - Step 1 — what you'll build, collect, or analyze first
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
-
-  Mention the specific tools, datasets, or methods you'll use.
+  Our project uses artificial intelligence and machine learning techniques to analyze environmental and health-related data in order to predict respiratory          disease risk. We are implementing and evaluating machine learning models, including Support Vector Machines (SVM), while applying optimization methods such as     the Douglas algorithm to improve model performance. We will also compare the optimized SVM model with other machine learning approaches, including Extreme         Learning Machine (ELM) and Random Forest models.
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+  The expected outcome of this project is the development of accurate and efficient AI-based prediction models that can identify respiratory health risks using      environmental data. By comparing different machine learning techniques and analyzing their performance, we hope to determine the most effective approach for       respiratory risk prediction and contribute insights that may support future public health research and decision-making.
 
 final_report_url: 
 
 grad_mentor:
   name: Amara Eze
-  linkedin: 
+ 
 
 faculty_mentor:
   name: Dr. Olaniyi Iyiola
-  linkedin: 
+  
 ---
