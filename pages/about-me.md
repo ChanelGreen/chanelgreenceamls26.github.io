@@ -19,6 +19,6 @@ about:
       caption: Family & Consumer Science Career Expo
     - image: assets/images/587326704_18387852619194336_6421308635623144757_n.jpg
       caption: Baltimore City Community Relations Commission
-    - image: assets/images/IMG_4267.jpg
+    - image: assets/images/IMG_2049.jpg
       caption: Morgan State University Young Heroes Award Spring 2026
 ---
