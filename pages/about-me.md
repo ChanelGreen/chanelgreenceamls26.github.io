@@ -18,8 +18,8 @@ about:
   gallery:
     - image: assets/images/IMG_3865.JPG
       caption: Family & Consumer Science Career Expo
-    - image: 
-      caption: 
+    - image: assets/images/587326704_18387852619194336_6421308635623144757_n.jpg
+      caption: Baltimore City Community Relations Commission
     - image: 
       caption: 
 ---
