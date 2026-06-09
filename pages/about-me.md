@@ -13,15 +13,7 @@ about:
     
 
   hobbies:
-    - icon: 
-      title: 
-      description: 
-    - icon: 
-      title: 
-      description: 
-    - icon: 
-      title: 
-      description: 
+    Beyond research, my life is rooted in faith, family, and service. My relationship with God guides my decisions, strengthens my resilience, and reminds me to       lead with purpose. As a mother, I am inspired daily by my daughters, who motivate me to pursue excellence and build a meaningful legacy. I enjoy mentoring         youth, engaging in community service, exploring leadership opportunities, and finding creative expression through dance and the arts. Whether supporting           community initiatives or encouraging others on their educational journeys, I am passionate about creating positive change and helping people recognize their       potential. 
 
   gallery:
     - image: assets/images/IMG_3865.JPG
