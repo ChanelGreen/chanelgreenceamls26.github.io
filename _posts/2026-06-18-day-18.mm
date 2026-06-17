@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Day 18 — Representing Morgan State Beyond the Classroom"
 date: 2026-06-18
