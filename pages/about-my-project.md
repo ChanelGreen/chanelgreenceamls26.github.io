@@ -24,6 +24,6 @@ grad_mentor:
 
 faculty_mentor: 
   name: Dr. Olaniyi Iyiola
-  linked in: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
+  linkedin: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   
 ---
