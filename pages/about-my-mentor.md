@@ -18,4 +18,5 @@ faculty_mentor:
   website: [https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/](https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/)
   bio: |
     Dr.Olaniyi Iyiola is a Mathematics Professor at Morgan State University and serves as the faculty mentor over my internship project. Dr. Iyiola is passionate      about building strong foundations in research, problem-solving, and innovation before advancing into more complex work. One important takeaway he  encourages      us to embrace is to “Enjoy the Process,” reminding students that growth happens through learning, patience, and consistency. Outside of academics, a fun fact      about Dr. Iyiola is that he plays the drums, reflecting both his creativity and discipline. Through mentorship, he aims to guide students by first                 strengthening their understanding and confidence from the ground up.
+    
 ---
