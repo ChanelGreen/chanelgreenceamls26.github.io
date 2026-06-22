@@ -18,10 +18,10 @@ outcome: |
 final_report_url: 
 
 grad_mentor:
-  name: [Amara Eze](https://www.linkedin.com/in/amara-eze-569b59259/)
+  name: [Amara Eze](https://www.linkedin.com/in/amara-eze-569b59259/).
  
 
 faculty_mentor: 
-  name: [Dr. Olaniyi Iyiola](https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/)
+  name: [Dr. Olaniyi Iyiola](https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/).
   
 ---
