@@ -19,6 +19,6 @@ about:
       caption: Baltimore City Community Relations Commission
     - image: assets/images/IMG_5489.jpg
       caption:  NCNW Day of Service
-    - image: assets/images/Chanel Green.png
-      caption:  Character Sketch
+    - image: assets/images/NCBDFCS.JPG
+      caption:  Award Recipient for National Coalition for Black Development in Family & Consumer Science 
 ---
